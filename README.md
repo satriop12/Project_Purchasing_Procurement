@@ -1,4 +1,4 @@
-Analyzing Purchasing and Procurement Data: Optimizing Supply Chain Management. Preparing, Processing, and Analyzing Datasets using Excel. Share the Analysis with PDF File.
+Analyzing Purchasing and Procurement Activity. Preparing, Processing, and Analyzing Datasets using Excel. Share the Analysis with PDF File.
 
 This project aims to:
 
